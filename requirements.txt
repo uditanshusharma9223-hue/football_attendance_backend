@@ -1,0 +1,8 @@
+fastapi 
+uvicorn 
+deepface 
+opencv-python-headless 
+pandas 
+python-multipart 
+openpyxl 
+tf-keras
